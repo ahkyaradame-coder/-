@@ -1,0 +1,10 @@
+{
+  "name": "The Choice Voice - محاكي أصوات القراء",
+  "description": "منصة تفاعلية لاختيار الشيخ والسورة، الاستماع للتلاوة العطرة ثم تسجيل صوتك لتقليدها والحصول على نسبة المطابقة وتحليل دقيق للأداء والمقام والتجويد",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
